@@ -66,6 +66,7 @@ body{
 }
 .contenido .tarea .caja .contenido_caja p{
     padding-top: 20px;
+    text-align: justify;
 }
 .contenido .tarea .caja .contenido_caja button{
     background-color: #4CAF50;
